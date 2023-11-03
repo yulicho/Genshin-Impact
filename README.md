@@ -6,8 +6,9 @@
 <h1 style="text-align:center;font-family:cursive"></h1>
     </header>
         <main>
-    <p style="background-color:LIGHTBLUE;text-align:center">
-        <img src="https://i1.sndcdn.com/artworks-29AhHxe8mBOd49m2-ZQj2Mw-t500x500.jpg"style = "float:left" width="100px" height="90px"/>Genshin Impact — це рольова гра у відкритому світі, де гравець керує групою з чотирьох персонажів, які подорожують світом у пошуках викраденого близнюка головного героя. Для цього їм належить вирішувати головоломки, боротися з ворогами, шукати союзників і збирати ресурси для їхнього розвитку.</p>
+    
+        <img src="https://i1.sndcdn.com/artworks-29AhHxe8mBOd49m2-ZQj2Mw-t500x500.jpg"style = "float:left" width="100px" height="90px"/>
+        <p style="background-color:LIGHTBLUE;text-align:center"> Genshin Impact — це рольова гра у відкритому світі, де гравець керує групою з чотирьох персонажів, які подорожують світом у пошуках викраденого близнюка головного героя. Для цього їм належить вирішувати головоломки, боротися з ворогами, шукати союзників і збирати ресурси для їхнього розвитку.</p>
     <h1 style=" background-color:#FFFF99;text-align:center">ДЕ МИ ПОДОРОЖУЄМО І ЯК?<img src="https://genapilot.ru/wp-content/uploads/2021/02/genshin-impact-characters-zodiac-1.jpg"weight="100px" height="100px"></h1>
     <p style="background-color:lightgreen">Світ поділено на регіони, в кожному з яких стоїть статуя певного Архонта. Коли герої досягають її, статуя відкриває мапу всього регіону. Біля статуй також можна вилікувати чи воскресити персонажів, збільшити запас витривалості, пожертвувавши зібрані ресурси.</p>
     <h1 style="background-color:#FFFF99">ЯКА ТАМ ІГРОВА ВАЛЮТА?</h1>
