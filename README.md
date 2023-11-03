@@ -1,7 +1,7 @@
 <html>
     <body>
         <header style="background-color:#FFFF99">
-            <h1 style="text-align:center">ГРА<br>
+            <h1 style="text-align:center">ГРА<br/>
             <img src="https://upload.wikimedia.org/wikipedia/ru/1/1d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B8%D0%B3%D1%80%D1%8B_Genshin_Impact.png" width="350px" height="100px"/>
             </h1> 
 <h1 style="text-align:center;font-family:cursive"></h1>
